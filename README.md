@@ -1,4 +1,7 @@
 # worldOfPython
+
+If I have seen further, it is by standing on the shoulders of giants” - Sir Isaac Newton
+
 DSA Practice in python
 
 Problem List :
