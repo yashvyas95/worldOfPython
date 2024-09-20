@@ -16,4 +16,6 @@ Problem List :
 8. Binary Search: https://leetcode.com/problems/binary-search/
 9. Linked List Cycle: https://leetcode.com/problems/linked-list-cycle/
 10. Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+11. Single Number: https://leetcode.com/problems/single-number/
+12. 
 
