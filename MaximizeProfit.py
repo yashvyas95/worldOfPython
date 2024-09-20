@@ -15,7 +15,7 @@ Input: prices = [7,6,4,3,1]
 Output: 0
 Explanation: In this case, no transactions are done and the max profit = 0.
  
-"""
+
  0 7 1 5 3 6 4
  7 0 0 0 0 0 0   
  1     4 2 5 4
@@ -23,6 +23,7 @@ Explanation: In this case, no transactions are done and the max profit = 0.
  3
  6
  4
+"""
 
 class Solution:
   def maxProfit(prices: list[int]) -> int:
