@@ -22,5 +22,6 @@ Problem List :
 14. Lexicographical Order: https://leetcode.com/problems/lexicographical-numbers/description/
 15. Top K Frequent Words: https://leetcode.com/problems/top-k-frequent-words/
 16. Reverse Polish Notation: https://leetcode.com/problems/evaluate-reverse-polish-notation/
-
+17. Shortest Palindrome: https://leetcode.com/problems/shortest-palindrome/description/?envType=daily-question&envId=2024-09-20
+18. 
 
