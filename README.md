@@ -17,5 +17,7 @@ Problem List :
 9. Linked List Cycle: https://leetcode.com/problems/linked-list-cycle/
 10. Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 11. Single Number: https://leetcode.com/problems/single-number/
-12. 
+12. Word Search: https://leetcode.com/problems/word-search-ii/
+13. Reverse Linked List: https://leetcode.com/problems/reverse-linked-list/description/
+14. 
 
