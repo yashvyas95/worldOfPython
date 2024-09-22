@@ -32,7 +32,6 @@ class Solution:
             n = len(pattern)
             kmp_table = [0] * n
             j = 0  # length of the previous longest prefix suffix
-
             # Build the KMP table
             for i in range(1, n):
                 while j > 0 and pattern[i] != pattern[j]:

@@ -23,5 +23,7 @@ Problem List :
 15. Top K Frequent Words: https://leetcode.com/problems/top-k-frequent-words/
 16. Reverse Polish Notation: https://leetcode.com/problems/evaluate-reverse-polish-notation/
 17. Shortest Palindrome: https://leetcode.com/problems/shortest-palindrome/description/?envType=daily-question&envId=2024-09-20
-18. 
+18. Median of Two Sorted Arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+19. Longest Valid Parenthesis: https://leetcode.com/problems/longest-valid-parentheses/description/?envType=problem-list-v2&envId=dynamic-programming&
+20. 
 
