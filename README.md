@@ -36,7 +36,7 @@ Topic Wise:
 ## Graph
 ## Heap
 ## Greedy
-    1. Scores Aftre Flipping Matrix : https://leetcode.com/problems/score-after-flipping-matrix/
+    1. Scores After Flipping Matrix : https://leetcode.com/problems/score-after-flipping-matrix/
 ## Binary Trees
 ## LinkedList
 ## Searching & Sorting
