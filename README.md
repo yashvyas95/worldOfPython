@@ -25,7 +25,7 @@ Problem List :
 17. Shortest Palindrome: https://leetcode.com/problems/shortest-palindrome/description/?envType=daily-question&envId=2024-09-20
 18. Median of Two Sorted Arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 19. Longest Valid Parenthesis: https://leetcode.com/problems/longest-valid-parentheses/description/?envType=problem-list-v2&envId=dynamic-programming&
-
+20. Score After Flipping Matrix : https://leetcode.com/problems/score-after-flipping-matrix/description/
 Topic Wise:
 
 BackTracking
@@ -36,6 +36,8 @@ Trie
 Graph
 Heap
 Greedy
+    1. Scores Aftre Flipping Matrix : https://leetcode.com/problems/score-after-flipping-matrix/
+
 Binary Trees
 LinkedList
 Searching & Sorting
