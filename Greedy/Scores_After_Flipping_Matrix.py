@@ -15,6 +15,23 @@ Example 2:
 Input: grid = [[0]]
 Output: 1
 
+
+Why It’s Greedy
+Locally Optimal Choices: At every step (row flips and column flips), we're making the best immediate decision:
+For rows: Flip the row if it starts with 0, since this immediately maximizes the MSB.
+For columns: Flip the column if it has more 0s than 1s, since this maximizes the number of 1s in that column, contributing to a higher overall score.
+No Backtracking: Once a row or column is flipped, we do not need to revisit that decision. We're assuming that the choice made at each step is the best possible without needing to reconsider it later.
+Greedy Optimality
+Why this approach works: In this problem, the greedy approach is optimal because:
+The first column contributes the most to the final score (being the most significant bit), so maximizing the number of 1s there is a clear step.
+For other columns, each flip decision is independent of the rest, and flipping a column can only increase the score (if it results in more 1s).
+Thus, this is a classic greedy algorithm where local optimizations lead to a globally optimal solution.
+
+Time Complexity
+O(m * n), where m is the number of rows and n is the number of columns, since we iterate over each element of the matrix once for both row and column flips.
+In summary, this is a greedy algorithm because we're making decisions to maximize the score at each step, and these decisions are not revisited later. The approach works efficiently and ensures the best possible score.
+
+
 """
 
 

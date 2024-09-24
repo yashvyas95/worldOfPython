@@ -37,6 +37,8 @@ Topic Wise:
 ## Heap
 ## Greedy
     1. Scores After Flipping Matrix : https://leetcode.com/problems/score-after-flipping-matrix/
+    2. Maximum Units on a Truck : https://leetcode.com/problems/maximum-units-on-a-truck/description/
+    
 ## Binary Trees
 ## LinkedList
 ## Searching & Sorting
