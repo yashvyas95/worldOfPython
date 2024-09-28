@@ -25,7 +25,8 @@ Problem List :
 17. Shortest Palindrome: https://leetcode.com/problems/shortest-palindrome/description/?envType=daily-question&envId=2024-09-20
 18. Median of Two Sorted Arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 19. Longest Valid Parenthesis: https://leetcode.com/problems/longest-valid-parentheses/description/?envType=problem-list-v2&envId=dynamic-programming&
-
+20. My Calender 2 : https://leetcode.com/problems/my-calendar-ii/
+    21. 
 Topic Wise:
 
 ## BackTracking
@@ -33,6 +34,7 @@ Topic Wise:
 ## Bit Manipulation
 ## DP
 ## Trie
+    1. Sum of Prefix Scores of Strings: https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/
 ## Graph
 ## Heap
 ## Greedy
