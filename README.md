@@ -30,11 +30,12 @@ Problem List :
 22. 
 Topic Wise:
 
+## 
 ## BackTracking
 ## Stack & Queues
 ## Bit Manipulation
 ## DP
-    1. Total Appeal of all Substring : https://leetcode.com/problems/total-appeal-of-a-string/description/
+    Rolling Hash : => 1. Total Appeal of all Substring : https://leetcode.com/problems/total-appeal-of-a-string/description/
 ## Trie
     1. Sum of Prefix Scores of Strings: https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/
 ## Graph
