@@ -34,6 +34,7 @@ Topic Wise:
 ## Stack & Queues
 ## Bit Manipulation
 ## DP
+    1. Total Appeal of all Substring : https://leetcode.com/problems/total-appeal-of-a-string/description/
 ## Trie
     1. Sum of Prefix Scores of Strings: https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/
 ## Graph
@@ -41,7 +42,6 @@ Topic Wise:
 ## Greedy
     1. Scores After Flipping Matrix : https://leetcode.com/problems/score-after-flipping-matrix/
     2. Maximum Units on a Truck : https://leetcode.com/problems/maximum-units-on-a-truck/description/
-    
 ## Binary Trees
 ## LinkedList
 ## Searching & Sorting
